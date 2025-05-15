@@ -12,7 +12,7 @@
     "@chakra-ui/react": "^2.4.9",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "@langchain/langgraph-sdk": "^0.0.1-rc.12",
+    "@langchain/langgraph-sdk": "^0.0.70",
     "@mozilla/readability": "^0.5.0",
     "@next/third-parties": "^15.1.6",
     "@testing-library/jest-dom": "^5.16.5",
